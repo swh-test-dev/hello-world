@@ -4,6 +4,6 @@ use strict;
 use warnings;
 
 
-print "TEST 2\n";
+print "TEST 3\n";
 
 exit 0;
